@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Online Feedback Form</title>
