@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Online Feedback Form</title>
+
 <style>
     body{
 font-family: Arial;
